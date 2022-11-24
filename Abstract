@@ -1,0 +1,25 @@
+
+
+In recent years, the Internet of Things (IoT) has received much
+attention in the areas of industry and academia. Currently, IoT technologies
+are being applied in many fields and is changing lives in many areas such as
+smart homes, smart cities, smart grids, autonomous cars, and the industrial
+internet. Howbeit, traditional agriculture is still waiting for many changes to
+occur in networking technology especially in IoT. Many researchers and
+engineers are working towards applying IoT technology to traditional
+agricultural methods. Aeroponics farming is an efficient and effective process
+for growing plants without using soil. When we apply IoT technology to an
+aeroponics system, it is expected that there will be many improvements such
+as decreasing water usage, increasing plant yield, minimizing rate of growth
+and reducing the workforce. In this paper, we designed and implemented a
+new automatic aeroponics system using IoT devices. Our system is comprised
+of three main components: a mobile application, service platform and IoT
+devices with sensors. The mobile application provides the user a graphical user
+interface to monitor and adjust the aeroponics system. The service platform is
+a middleware system that provides information for the mobile application to
+store the gathered information from IoT devices using sensors within the
+aeroponics system. The IoT device uses sensors within the aeroponics system
+to control each pump and access data. Our work is a new application in the
+agricultural industry and is expected to be a promising application that will
+help the farmer with increasing productivity in farming and reducing carbon
+footprint.
