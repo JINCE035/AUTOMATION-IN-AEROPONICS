@@ -6,9 +6,15 @@ vides a solution to current agricultural problems through the use of an automat-
 ed, optimized and controlled microclimate growing system. 
 
 It is designed to achieve:
+
 • Increased accessibility
+
 • Increased consumer control
+
 • Maximized freshness and quality
+
 • Reduced stress on environment
+
 • Overcome spatial and regulation constraints of an urban environment
+
 • Simplified and minimal operation
